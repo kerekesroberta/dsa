@@ -1,0 +1,3 @@
+/Users/robertakerekes/Desktop/DSA/ListeSimpluInlantuite/cmake-build-debug/CMakeFiles/Laborator2ex1_Algo.dir
+/Users/robertakerekes/Desktop/DSA/ListeSimpluInlantuite/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robertakerekes/Desktop/DSA/ListeSimpluInlantuite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
